@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Chetan%20Arora!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <a href="https://github.com/chetan-arora-2006">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Chetan%20Arora!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  </a>
 </div>
 
 <div align="center">
@@ -175,5 +177,7 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=007ACC&height=100&section=footer" width="100%" />
+  <a href="https://github.com/chetan-arora-2006">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=007ACC&height=100&section=footer" width="100%" />
+  </a>
 </div>
