@@ -14,13 +14,40 @@
 
 ## 💫 About Me:
 
-I enjoy building dynamic, end-to-end web applications and diving deep into the world of Artificial Intelligence and Machine Learning. 
-
-- 🔭 I’m currently working on cutting-edge full-stack projects and ML models.
-- 🌱 I’m currently learning advanced AI Automation and refining my systems architecture skills.
-- 👯 I’m looking to collaborate on Open Source projects, AI tools, and impactful web applications.
-- 📫 How to reach me: [masterchetan89@gmail.com](mailto:masterchetan89@gmail.com)
-- 🖊️ **[Sign my Guestbook!](https://github.com/chetan-arora-2006/chetan-arora-2006/issues/new?title=Guestbook+Entry)** Leave a fun message on my repo!
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>I enjoy building dynamic, end-to-end web applications and diving deep into the world of Artificial Intelligence and Machine Learning.</p>
+      <details>
+        <summary><b>🔭 Current Projects</b></summary>
+        <br/>I’m currently working on cutting-edge full-stack projects and ML models.
+      </details>
+      <br/>
+      <details>
+        <summary><b>🌱 Learning & Growth</b></summary>
+        <br/>I’m currently learning advanced AI Automation and refining my systems architecture skills.
+      </details>
+      <br/>
+      <details>
+        <summary><b>👯 Collaboration</b></summary>
+        <br/>I’m looking to collaborate on Open Source projects, AI tools, and impactful web applications.
+      </details>
+      <br/>
+      <details>
+        <summary><b>📫 Let's Connect!</b></summary>
+        <br/>Reach out to me at: <a href="mailto:masterchetan89@gmail.com">masterchetan89@gmail.com</a>
+      </details>
+      <br/>
+      <details>
+        <summary><b>🖊️ Leave a mark!</b></summary>
+        <br/><b><a href="https://github.com/chetan-arora-2006/chetan-arora-2006/issues/new?title=Guestbook+Entry">Sign my Guestbook!</a></b> Leave a fun message on my repo.
+      </details>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
