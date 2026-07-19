@@ -194,7 +194,11 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" width="48%" />
 </div>
 
-
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cyberpunk City Rain" width="100%" />
+</div>
+<br/>
 
 <div align="center">
   <a href="https://github.com/chetan-arora-2006">
