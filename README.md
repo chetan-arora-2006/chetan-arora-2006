@@ -157,8 +157,8 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetan-arora-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-arora-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=chetan-arora-2006&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-arora-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" width="48%" alt="Top Langs" />
 </div>
 
 <div align="center">
