@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Chetan%20Arora!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Chetan%20Arora!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;AI+Automation+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=0D1117&center=false&vCenter=true&width=600&height=100&lines=%3E+Initializing+system...;%3E+Loading+skills...;%3E+Python,+TypeScript,+React...;%3E+Access+Granted." alt="Hacker Terminal SVG" /></a>
 </div>
 
 <div align="center">
@@ -88,7 +88,6 @@ I enjoy building dynamic, end-to-end web applications and diving deep into the w
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-
 </p>
 
 ### DevOps, Cloud & Platforms
@@ -97,7 +96,6 @@ I enjoy building dynamic, end-to-end web applications and diving deep into the w
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -152,8 +150,19 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
 </div>
 
 <div align="center">
+  <!-- GitHub 3D City Image (Generated via Action) -->
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetan-arora-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-arora-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Langs" />
+</div>
+
+<div align="center">
+  <!-- WakaTime Pie Chart -->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
 
 ---
@@ -166,5 +175,5 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=007ACC&height=100&section=footer" width="100%" />
 </div>
