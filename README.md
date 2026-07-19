@@ -194,12 +194,7 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" width="48%" />
 </div>
 
-<br/>
-<div align="center">
-  <i>Time to chill and grab a coffee...</i><br/><br/>
-  <img src="https://c.tenor.com/b5ON_pP5-P8AAAAC/coding-anime.gif" alt="Lofi Chill" width="500" />
-</div>
-<br/>
+
 
 <div align="center">
   <a href="https://github.com/chetan-arora-2006">
