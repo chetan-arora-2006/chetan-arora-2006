@@ -2,9 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hi%20there,%20I'm%20Chetan%20Arora!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-## 💫 About Me:
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;AI+Automation+Enthusiast;Always+Learning+and+Building" alt="Typing SVG" /></a>
+</div>
 
-**A passionate Full Stack Developer & AI Enthusiast** 👨‍💻
+<div align="center">
+  <img src="https://profile-counter.glitch.me/chetan-arora-2006/count.svg" alt="Visitor Count" />
+</div>
+
+## 💫 About Me:
 
 I enjoy building dynamic, end-to-end web applications and diving deep into the world of Artificial Intelligence and Machine Learning. 
 
@@ -12,7 +18,13 @@ I enjoy building dynamic, end-to-end web applications and diving deep into the w
 - 🌱 I’m currently learning advanced AI Automation and refining my systems architecture skills.
 - 👯 I’m looking to collaborate on Open Source projects, AI tools, and impactful web applications.
 - 📫 How to reach me: [masterchetan89@gmail.com](mailto:masterchetan89@gmail.com)
-- ⚡ Fun fact: I love discovering new tech stacks and optimizing applications for the best user experience!
+- 🖊️ **[Sign my Guestbook!](https://github.com/chetan-arora-2006/chetan-arora-2006/issues/new?title=Guestbook+Entry)** Leave a fun message on my repo!
+
+<details>
+<summary><b>⛅ Current Weather in Faridabad</b></summary>
+<br/>
+<img src="https://wttr.in/Faridabad.png?0tqp" alt="Weather in Faridabad" />
+</details>
 
 ---
 
@@ -29,6 +41,26 @@ I enjoy building dynamic, end-to-end web applications and diving deep into the w
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+---
+
+## ♟️ The Ultimate Chess Corner
+
+Challenge the community or check out my live Chess.com stats!
+
+<a href="https://www.chess.com/member/Its_Chetan_Arora" target="_blank">
+  <img src="https://img.shields.io/badge/Chess.com-Its__Chetan__Arora-darkgreen?style=for-the-badge&logo=chess.com" alt="Chess.com" />
+</a>
+
+<details>
+<summary><b>Play Chess with the Community! (Click to expand)</b></summary>
+<br/>
+
+<!-- BEGIN CHESS BOARD -->
+To play a move, simply create a new issue with your desired move in standard algebraic notation (e.g., e4, Nf3).
+<!-- END CHESS BOARD -->
+
+</details>
 
 ---
 
@@ -59,53 +91,49 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### AI / ML & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Activity:
+## 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetan-arora-2006&bg_color=0D1117&color=007ACC&line=007ACC&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetan-arora-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-arora-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
-<br />
+---
+
+## ☕ Break Time
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-arora-2006&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" width="48%" />
 </div>
 
 <div align="center">
