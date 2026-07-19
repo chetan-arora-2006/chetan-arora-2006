@@ -114,15 +114,7 @@ Challenge the community or check out my live Chess.com stats!
   <img src="https://img.shields.io/badge/Chess.com-Its__Chetan__Arora-darkgreen?style=for-the-badge&logo=chess.com" alt="Chess.com" />
 </a>
 
-<details>
-<summary><b>Play Chess with the Community! (Click to expand)</b></summary>
-<br/>
 
-<!-- BEGIN CHESS BOARD -->
-To play a move, simply create a new issue with your desired move in standard algebraic notation (e.g., e4, Nf3).
-<!-- END CHESS BOARD -->
-
-</details>
 
 ---
 
