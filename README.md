@@ -194,13 +194,7 @@ A sleek, fast, and responsive full-stack application designed for an intuitive u
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes Card" width="48%" />
 </div>
 
-<br/>
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=0fiqmg8na6f3l32k1bgfs30ra&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0fiqmg8na6f3l32k1bgfs30ra&cover_image=true&theme=default&show_offline=true&background_color=0D1117&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github.com/chetan-arora-2006">
